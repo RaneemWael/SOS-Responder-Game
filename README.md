@@ -8,3 +8,8 @@ Description:
 - The main goal of the game is for the player to efficiently employ the rescue units to rescue as many citizens and minimize the number of deaths. 
 - All the available rescue units are assigned to the player at the start of the simulation. 
 - As the game proceeds certain disasters start appearing throughout the map affecting different buildings and citizens.
+
+How to runL
+- Download as a zip to your computer.
+- Import to Eclipse IDE as an existing project archive.
+- Right click on project name in the navigator window and select run.
