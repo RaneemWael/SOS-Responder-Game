@@ -9,7 +9,7 @@ Description:
 - All the available rescue units are assigned to the player at the start of the simulation. 
 - As the game proceeds certain disasters start appearing throughout the map affecting different buildings and citizens.
 
-How to runL
+How to run:
 - Download as a zip to your computer.
 - Import to Eclipse IDE as an existing project archive.
 - Right click on project name in the navigator window and select run.
