@@ -1,4 +1,5 @@
 # SOS-Responder-Game
+A playable SOS responder game coded in Java where the player deploys rescue units to certain disasters appearing in a 10x10 grid displayed on the screen.
 
 Description:
 - The Rescue Simulation is based on concepts of the RoboCup, an annual international robotics competition proposed and founded in 1996 by a group of university professors.
